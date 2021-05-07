@@ -1,0 +1,9 @@
+{
+  "BatchPath": "D:\\Project Files\\passivbot\\passivbot-3.4.0\\spoof.bat",
+  "LocalSharedFolder": "D:\\passivBotShared_PC\\",
+  "ExternalSharedFolder": "\\\\TS-LAPTOP\\\\passivBotShared_LAPTOP\\\\",
+  "Backup": "False",
+  "Timeout": 60,
+  "CheckFrequency": 10,
+  "UpdateFrequency": 10
+}

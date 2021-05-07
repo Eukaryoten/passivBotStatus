@@ -1,0 +1,9 @@
+{
+  "BatchPath": "C:\\passivbot-3.4.0\\start_bot.bat",
+  "LocalSharedFolder": "C:\\passivBotShared_LAPTOP\\",
+  "ExternalSharedFolder": "\\\\TS\\\\passivBotShared_PC\\\\",
+  "Backup": "True",
+  "Timeout": 60,
+  "CheckFrequency": 10,
+  "UpdateFrequency": 10
+}
